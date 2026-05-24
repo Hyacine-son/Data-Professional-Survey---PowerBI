@@ -1,7 +1,7 @@
 # Data Professional Survey Dashboard
 
 ## 📊 Dashboard Preview
-![Data Professional Survey Dashboard](dashboard_screenshot.png)
+![Data Professional Survey Dashboard](Professional Survey Dashboard.png)
 
 ## 🎯 Project Overview
 This project is an enhanced data visualization built in Power BI using global survey data from over 600 data professionals. Taking foundational project data, I completely redesigned the layout, color palette, and chart selections to create a polished, corporate-ready analytical deliverable.
